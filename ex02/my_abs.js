@@ -1,7 +1,7 @@
-function my_abs(param_1) {
-    if (param_1 < 0) {
-        return -param_1;
+function my_abs(n) {
+    if (n < 0) {
+        return -n;
     } else {
-        return param_1++ ;
+        return n++;
     }
 }
