@@ -5,4 +5,5 @@ function my_is_negative(n) {
         return 1;
     }
 }
+//console.log(my_is_negative(-1));
 //console.log(my_is_negative(0));
