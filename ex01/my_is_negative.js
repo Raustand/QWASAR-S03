@@ -6,4 +6,5 @@ function my_is_negative(n) {
     }
 }
 //console.log(my_is_negative(-1));
+//console.log(my_is_negative(1));
 //console.log(my_is_negative(0));
